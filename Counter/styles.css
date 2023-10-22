@@ -1,0 +1,16 @@
+.container {
+  text-align: center;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.changeValueInput {
+  margin-left: 1rem;
+  width: 5rem;
+  height: 2rem;
+}
